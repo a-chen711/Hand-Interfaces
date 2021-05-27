@@ -90,7 +90,7 @@ class LeapMotionListener(Leap.Listener):
 					start = bone.prev_joint #returns vector where bone started (closest to wrist)
 					end = bone.next_joint #returns vector where bone ends (and next bone starts)
 					bone_dir = bone.direction
-					print "Bone: " + bone_name + ", Start: " + str(start) + ", End: " + str(end) + ", Direction: " + str(bone_dir)
+					# print "Bone: " + bone_name + ", Start: " + str(start) + ", End: " + str(end) + ", Direction: " + str(bone_dir)
 
 
 def main():

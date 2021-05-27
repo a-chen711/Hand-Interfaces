@@ -4,7 +4,16 @@
 			"path": "."
 		},
 		{
-			"path": "..\\LeapDeveloperKit_3.2.1+45911_win\\LeapSDK"
+			"path": "..\\..\\..\\LeapDeveloperKit_3.2.1+45911_win\\LeapSDK"
+		},
+		{
+			"path": "..\\..\\..\\mano_v1_2"
+		},
+		{
+			"path": "..\\..\\.."
 		}
-	]
+	],
+	"settings": {
+		"python.pythonPath": "c:\\Python27\\py2env\\Scripts\\python.exe"
+	}
 }
