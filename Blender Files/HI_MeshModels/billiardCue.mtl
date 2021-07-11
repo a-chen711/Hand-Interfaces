@@ -1,0 +1,14 @@
+newmtl MAT_floor_wood_01
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl SoccerBlack
+Kd 0 0 0
+illum 2
+
+newmtl SoccerWhite
+Kd 1 1 1
+illum 2
+

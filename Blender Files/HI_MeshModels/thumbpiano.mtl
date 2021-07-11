@@ -1,0 +1,15 @@
+newmtl New Material 4
+Kd 0.7830189 0.7830189 0.7830189
+illum 2
+
+newmtl darkwood
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl MAT_floor_wood_01
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+

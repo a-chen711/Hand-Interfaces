@@ -1,0 +1,14 @@
+newmtl ControllerBoxButtons
+Kd 0.6985294 0.2241529 0.1438149
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl ControllerBoxGlow
+Kd 1 0.8480555 0.453
+illum 2
+
+newmtl Copper
+Kd 1 0.87839 0
+illum 2
+

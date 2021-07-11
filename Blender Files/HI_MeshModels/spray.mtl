@@ -1,0 +1,12 @@
+newmtl New Material
+Kd 1 0.9449877 0.5226415
+illum 2
+
+newmtl Knife
+Kd 1 1 1
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+

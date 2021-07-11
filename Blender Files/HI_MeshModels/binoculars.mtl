@@ -1,0 +1,8 @@
+newmtl New Material 6
+Kd 0.2287236 0.490566 0.05738695
+illum 2
+
+newmtl glass
+Kd 0.5177109 0.8556506 0.990566
+illum 2
+

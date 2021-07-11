@@ -1,0 +1,17 @@
+newmtl MAT_floor_wood_01
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl Black-Ball-Material
+Kd 0 0 0
+map_Bump null
+illum 2
+
+newmtl MAT_floor_wood_02
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+

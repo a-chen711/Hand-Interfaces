@@ -1,0 +1,11 @@
+newmtl Ball10
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl SpatializedObject2
+Kd 1 0 0
+Tr 0.2156863
+d 0.7843137
+illum 2
+
